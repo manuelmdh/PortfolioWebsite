@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://hardcore-kilby-463f0b.netlify.app"
 languageCode = "en-us"
 title = "Manuel Mar"
 theme = "personal-web"
