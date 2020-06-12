@@ -46,6 +46,7 @@ pygmentsCodeFences=true
 
 [params.social]
   linkedin = "https://www.linkedin.com/in/manuel-mar-del-hierro-b8b612117/"
+  youtube =  "https://www.youtube.com/user/mmdhm"
   
 [params.contact]
   email = "mamardelhierro@miners.utep.edu"
@@ -67,6 +68,13 @@ pygmentsCodeFences=true
   title = "Portfolio"
   url = "/portfolio/"
   weight = -110
+
+[[menu.main]]
+  identifier = "hobbies"
+  name = "Hobbies"
+  title = "My Hobbies"
+  url = "/hobbies/"
+  weight = -100
 
 [[menu.main]]
   identifier = "blog"
