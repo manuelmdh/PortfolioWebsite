@@ -9,9 +9,11 @@ thumbnail: opener/slmbracket.jpeg
 
 ---
 
-
-
+![Generative Design FEA and setup](/slmbracket2.jpeg)
+![Generative Design FEA and setup](/N1.jpg)
+![Generative Design FEA and setup](/N2.png)
 ![Generative Design FEA and setup](/nozzleslide.jpg)
+
 ![Printed Iterations](/collage.jpg)
 
 
