@@ -1,8 +1,8 @@
 ---
 title: Design 
 description: This is the description of our sample project
-date: "2020-05-02T19:47:09+02:00"
-jobDate: 2020
+date: "2019-05-02T19:47:09+02:00"
+jobDate: 2019
 work: [Additive Manufacturing, Mechanical Testing, Generative Design, Fused Deposition Modeling]
 techs: [Fusion 360, Solidworks, Fused Deposition Modeling (FDM), Stereolithography (SLA), Selective Laser Melting (SLM)]
 thumbnail: opener/slmbracket.jpeg
